@@ -4,3 +4,7 @@
 * Post2
 * Post3
 
+---
+layout: post
+title: Blogging Like a Hacker
+---
